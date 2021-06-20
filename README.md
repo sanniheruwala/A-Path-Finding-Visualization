@@ -1,17 +1,11 @@
-# A-Path-Finding-Visualization
-A python visualization of the A* path finding algorithm. It allows you to pick your start and end location and view the process of finding the shortest path.
+# DE assignment
+
+A python solution which uses sql alchemy and pandas to generate data analysis
 
 # Requirements
 - Python 3.x
-- TKinter
-- Pygame
+- Pandas
+- sqlAlchemy
 
-# Run in Gitpod
+It has 4 task from data analyst assignment and 1 in complete task from web scrapping since web site was not allowing me to access it using python.
 
-You can also run A*-Path-Finding in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM19**
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/A-Path-Finding-Visualization/blob/master/path_finding.py)
-
-Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
